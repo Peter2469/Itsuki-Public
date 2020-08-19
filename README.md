@@ -2,7 +2,7 @@
 ### A Discord Bot created in Python.
 
 # Installation Guide
-1. Install wget (Linux only)
+1. Install wget
 2. Install python3
 3. Install python3-pip
 4. Install git
