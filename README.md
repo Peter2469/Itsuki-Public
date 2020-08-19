@@ -23,4 +23,4 @@ git clone https://github.com/Peter2469/Itsuki-Public
 ```
 PM2 (Linux):
 pm2 start main.py --interpreter "/usr/bin/python3" --interpreter-args -- cogs music
-```# Itsuki-Public
+```
