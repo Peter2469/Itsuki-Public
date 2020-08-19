@@ -12,7 +12,7 @@ pip3 install -U discord.py[voice] && pip3 install -U  dblpy && pip3 install -U  
 ```
 6. Clone Repo
 ```
-git clone https://github.com/Peter2469/Itsuki
+git clone https://github.com/Peter2469/Itsuki-Public
 ```
 7. (Optional/Linux only) Install pm2
 ```
